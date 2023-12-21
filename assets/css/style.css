@@ -1,0 +1,14 @@
+/* Style untuk navbar */
+.navbar-sticky {
+    position: sticky;
+    top: 0;
+    z-index: 20; /* Sesuaikan dengan kebutuhan */
+    background-color: white; /* Atur warna background sesuai kebutuhan */
+}
+
+/* Style untuk carousel wrapper */
+#controls-carousel {
+    position: relative;
+    z-index: 10;/* Sesuaikan dengan tinggi navbar */
+    /* ... (style lainnya) ... */
+}
